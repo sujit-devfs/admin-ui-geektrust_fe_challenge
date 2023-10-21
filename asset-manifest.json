@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admin-ui-geektrust_fe_challenge/static/css/main.793409e8.css",
+    "main.js": "/admin-ui-geektrust_fe_challenge/static/js/main.e3d8069a.js",
+    "static/js/787.f32dba2f.chunk.js": "/admin-ui-geektrust_fe_challenge/static/js/787.f32dba2f.chunk.js",
+    "index.html": "/admin-ui-geektrust_fe_challenge/index.html",
+    "main.793409e8.css.map": "/admin-ui-geektrust_fe_challenge/static/css/main.793409e8.css.map",
+    "main.e3d8069a.js.map": "/admin-ui-geektrust_fe_challenge/static/js/main.e3d8069a.js.map",
+    "787.f32dba2f.chunk.js.map": "/admin-ui-geektrust_fe_challenge/static/js/787.f32dba2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793409e8.css",
+    "static/js/main.e3d8069a.js"
+  ]
+}
